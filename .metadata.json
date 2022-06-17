@@ -1,0 +1,14 @@
+[
+  {
+    "package": "CPBayes",
+    "oncran": true
+  },
+  {
+    "package": "eGST",
+    "oncran": true
+  },
+  {
+    "package": "MPGE",
+    "oncran": true
+  }
+]
