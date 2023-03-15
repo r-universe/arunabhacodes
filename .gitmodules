@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MPGE"]
-	path = MPGE
-	url = https://github.com/arunabhacodes/mpge
-	shallow = true
-	registered = true
 [submodule "CPBayes"]
 	path = CPBayes
 	url = https://github.com/arunabhacodes/cpbayes
@@ -16,5 +11,10 @@
 [submodule "eGST"]
 	path = eGST
 	url = https://github.com/arunabhacodes/egst
+	shallow = true
+	registered = true
+[submodule "MPGE"]
+	path = MPGE
+	url = https://github.com/arunabhacodes/mpge
 	shallow = true
 	registered = true
