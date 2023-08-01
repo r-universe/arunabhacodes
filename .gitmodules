@@ -5,9 +5,9 @@
 [submodule "CPBayes"]
 	path = CPBayes
 	url = https://github.com/arunabhacodes/cpbayes
-[submodule "eGST"]
-	path = eGST
-	url = https://github.com/arunabhacodes/egst
 [submodule "MPGE"]
 	path = MPGE
 	url = https://github.com/arunabhacodes/mpge
+[submodule "eGST"]
+	path = eGST
+	url = https://github.com/arunabhacodes/egst
